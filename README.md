@@ -22,12 +22,12 @@ Meu foco atual é construir soluções utilizando SQL e Power BI para análise d
     <h3>* GitHub Stats *</h3>
   
   <br>
-<a href="https://github.com/RobsonFei09/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RobsonFei09&show_icons=true&theme=shadow_red" />
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=RobsonFei09&show_icons=true&theme=shadow_red" />
 </a>
   <br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RobsonFei09&layout=compact&langs_count=8&card_width=320&theme=shadow_red" />
+<a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=RobsonFei09&layout=compact&langs_count=8&card_width=320&theme=shadow_red" />
 </a>
 <div/>
   
@@ -35,7 +35,7 @@ Meu foco atual é construir soluções utilizando SQL e Power BI para análise d
  <h3 align="center">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:robson.freitas.jr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]([https://www.linkedin.com/in/robson-junior-santosos-de-freitas-70b500186](https://www.linkedin.com/in/robson-junior07/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/robson-junior07/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/robson23_freitas/)
 
 
