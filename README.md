@@ -4,19 +4,27 @@
 - Graduado em Análise e Desenvolvimento de Sistemas pela Universidade São Judas Tadeu, com experiência em processos comerciais, sistemas corporativos, elaboração de relatórios, indicadores e melhoria de processos.
 - Atualmente, estou direcionando meu desenvolvimento profissional para Dados, Business Intelligence e Sistemas.
 
-Competências e conhecimentos:
+- Competências e conhecimentos:
+  
 Excel e elaboração de relatórios;
+
 Power BI básico;
+
 SQL em desenvolvimento;
+
 Git/GitHub;
+
 HTML, CSS e JavaScript;
+
 Sistemas corporativos e análise de processos.
+
 Projetos
 
-Aqui compartilho projetos acadêmicos e práticos desenvolvidos durante minha formação e evolução profissional.
+- Aqui compartilho projetos acadêmicos e práticos desenvolvidos durante minha formação e evolução profissional.
 
-Meu foco atual é construir soluções utilizando SQL e Power BI para análise de indicadores, qualidade de dados e melhoria de processos empresariais.
-- 📬 Contate-me no email: robson.freitas.jr@gmail.com
+- Meu foco atual é construir soluções utilizando SQL e Power BI para análise de indicadores, qualidade de dados e melhoria de processos empresariais.
+  
+  📬 Contate-me no email: robson.freitas.jr@gmail.com
 #
 <div style="text-align: center;" align="center">
     <h3>* GitHub Stats *</h3>
